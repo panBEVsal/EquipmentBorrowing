@@ -1,4 +1,4 @@
-using EquipmentBorrowing.Domain;
+ using EquipmentBorrowing.Domain;
 
 namespace EquipmentBorrowing.Application.Interfaces;
 
