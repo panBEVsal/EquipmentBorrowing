@@ -8,4 +8,5 @@
   <Folder Name="/tests/">
     <Project Path="tests/EquipmentBorrowing.Tests/EquipmentBorrowing.Tests.csproj" />
   </Folder>
+  <Project Path="EquipmentBorrowing.Desktop/EquipmentBorrowing.Desktop.csproj" Id="748c4c26-fc29-4bf0-8e72-fc1011ad183f" />
 </Solution>
